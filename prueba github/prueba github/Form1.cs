@@ -21,5 +21,10 @@ namespace prueba_github
         {
             MessageBox.Show("Hola");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Esto lo hice yo");
+        }
     }
 }
